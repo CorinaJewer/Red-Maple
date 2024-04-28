@@ -1,2 +1,2 @@
-# Red-Maple
-The Red Maple
+
+A web development project focused on building a wildlife educational website. I chose a species, researched it using iNaturalist and other reliable sources, and put together the site with open-licensed materials from the web. All the copywright is original, and I made sure to cite my sources properly in the "about.html" page. I converted the text to HTML, making good use of HTML5 semantic elements. The website includes photos, videos, and audio for a more engaging learning experience. I also applied design using both provided style sheets and class-less CSS frameworks. 
